@@ -1,0 +1,19 @@
+# Only the hosted application is published. Everything else stays local.
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/web/
+!/web/vendor/
+!/web/index.html
+!/web/style.css
+!/web/app.js
+!/web/core.js
+!/web/viewer.js
+!/web/timeline.js
+!/web/detector.js
+!/web/parser-worker.js
+!/web/vendor/three.module.min.js
+!/web/vendor/three.core.min.js
+!/web/vendor/OrbitControls.js
+!/web/vendor/THREE-LICENSE.txt
